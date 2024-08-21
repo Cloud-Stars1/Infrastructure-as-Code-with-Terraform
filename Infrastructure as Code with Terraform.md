@@ -1,6 +1,6 @@
 # Infrastructure as Code with Terraform || GSP750
 
-## Solution [here](https://youtu.be/M_-C96PEMwk)
+## Solution [here](https://youtu.be/xO1qn7g-t_I)
 
 ### Run the following Commands in the Cloud shell
 
